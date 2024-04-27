@@ -1,0 +1,10 @@
+# root
+node_modules
+*.7z
+*.gz
+*.log
+package-lock.json
+dist
+.serverless
+
+# project specific
