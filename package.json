@@ -10,7 +10,6 @@
   "author": "Ilan Copelyn",
   "license": "ISC",
   "dependencies": {
-    "pdf.js-extract": "0.2.1",
     "pdfjs-dist": "2.6.347"
   }
 }
